@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <reference>
 	<item title='printf'>
+		<meta>
+			<include></include>
+		</meta>
 		<name>printf</name>
 		<format></format>
 		<description></description>
